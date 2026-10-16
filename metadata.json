@@ -1,0 +1,6 @@
+{
+  "name": "Paper2Clip - Paper Number Scanner & Python Suite",
+  "description": "Scan numbers from paper with live camera or photo upload, auto-copy directly to clipboard for effortless Ctrl+V, with full Python automation scripts and instant testing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
